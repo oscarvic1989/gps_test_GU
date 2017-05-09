@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{28F1DC01-D02B-A7F7-D1D8-B1B5E64350F3}") = "Google_Map_3D", "Assembly-CSharp.csproj", "{9A4449C5-9D1F-47D3-DF58-09D10ED85187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4449C5-9D1F-47D3-DF58-09D10ED85187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4449C5-9D1F-47D3-DF58-09D10ED85187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4449C5-9D1F-47D3-DF58-09D10ED85187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4449C5-9D1F-47D3-DF58-09D10ED85187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
